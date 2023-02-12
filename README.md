@@ -5,4 +5,3 @@ Check my [`LinkedIn`](https://www.linkedin.com/in/danylo-ternovoi-74079b239?lipi
 
 
 - 🌱 I’m currently learning Swift, SwiftUI, Git.
-- 👯 I’m looking to collaborate on iOS open source projects.
