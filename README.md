@@ -1,7 +1,5 @@
-Hello!
+Oh hi!
 
-I am Tanker Fleet Navigational Officer based in Varna, Bulgaria. 
-Check my [`LinkedIn`](https://www.linkedin.com/in/danylo-ternovoi-74079b239?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B26wTn4bcQWiM%2BPSlML4eeA%3D%3D) for more info.
+I am a Software Developer from Ukraine :) (Currently based in Varna, Bulgaria). My passion is iOS applications. I just love Swift programming language and all related things! Technologies I've already used in my projects include SwiftUI, Vapor, Firebase, CloudKIT, MapKIT, and WidgetKIT.
 
-
-- 🌱 I’m currently learning Swift, SwiftUI, Git.
+Before programming, I built a career as a Navigation Officer on a Tanker Fleet.
