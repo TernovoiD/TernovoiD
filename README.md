@@ -1,5 +1,15 @@
 Oh hi!
 
-I am a Software Developer from Ukraine :) (Currently based in Varna, Bulgaria). My passion is iOS applications. I just love Swift programming language and all related things! Technologies I've already used in my projects include SwiftUI, Vapor, Firebase, CloudKIT, MapKIT, and WidgetKIT.
+My name is Danylo Ternovoi, and I'm thrilled to welcome you to my GitHub page. While my professional background lies in the role of a Tanker Fleet Navigational Officer, my true passion lies in the world of iOS app development and all related aspects.
 
-Before programming, I built a career as a Navigation Officer on a Tanker Fleet.
+On this GitHub page, you'll find a collection of my personal projects and experiments in iOS app development. Through these projects, I aim to demonstrate my growing proficiency in the field and showcase my creativity in crafting delightful user interfaces and seamless functionality.
+
+<img width="252" alt="Screenshot 2023-05-24 at 14 10 52" src="https://github.com/TernovoiD/TernovoiD/assets/121759315/b9840683-c956-471e-b584-7121f854ffcd">
+
+I am enthusiastic about learning and staying up-to-date with the latest advancements in iOS development. My drive to continually expand my knowledge and refine my coding techniques propels me towards achieving my goal of becoming a proficient and successful iOS developer.
+
+Thank you for visiting my GitHub page, and I hope you enjoy exploring my projects. Feel free to reach out to me if you have any questions, feedback, or opportunities for collaboration!
+
+Happy coding,
+
+Danylo Ternovoi
