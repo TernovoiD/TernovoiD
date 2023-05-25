@@ -13,3 +13,5 @@ Thank you for visiting my GitHub page, and I hope you enjoy exploring my project
 Happy coding,
 
 Danylo Ternovoi
+
+[LinkedIn](https://www.linkedin.com/in/danylo-ternovoi-74079b239/)
