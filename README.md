@@ -4,7 +4,8 @@ My name is Danylo Ternovoi, and I'm thrilled to welcome you to my GitHub page. W
 
 On this GitHub page, you'll find a collection of my personal projects and experiments in iOS app development. Through these projects, I aim to demonstrate my growing proficiency in the field and showcase my creativity in crafting delightful user interfaces and seamless functionality.
 
-<img width="252" alt="Screenshot 2023-05-24 at 14 10 52" src="https://github.com/TernovoiD/TernovoiD/assets/121759315/b9840683-c956-471e-b584-7121f854ffcd">
+[Check my project "Wreckpointer" on AppStore!](https://apps.apple.com/us/app/wreckpointer/id6447294628)
+------------------------------------------------------------------------------------------------
 
 I am enthusiastic about learning and staying up-to-date with the latest advancements in iOS development. My drive to continually expand my knowledge and refine my coding techniques propels me towards achieving my goal of becoming a proficient and successful iOS developer.
 
